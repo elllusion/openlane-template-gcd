@@ -1,0 +1,4 @@
+package require openlane
+set script_dir [file dirname [file normalize [info script]]]
+
+
